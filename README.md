@@ -5,4 +5,4 @@ OOAD Project
 2. if you don't know password of mysql command is : sudo mysql -u <username> -p <your databasename > < <filename you want to run .sql>
 
 # PostMan screen shots
-![Alt text](/home/jagatdeep/Pictures/Screenshot from 2019-01-24 00-37-26.png?raw=true "POSTMAN Registration")
+![Alt text](Flipkart-Database/Postman Screenshots/Screenshot from 2019-01-24 00-37-26.png?raw=true "POSTMAN Registration")
