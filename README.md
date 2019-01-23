@@ -8,7 +8,7 @@ OOAD Project
 that above commands have a field " your databasename ". So, make a database with name Flipkart before running the above commands. 
 
 # password and username for mysql should be same across all systems
-username : ooad
+username : ooad\
 password : ooad
 
 so create a user in mysql and grant it all privileges.
