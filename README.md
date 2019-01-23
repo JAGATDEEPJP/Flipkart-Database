@@ -13,4 +13,4 @@ for reference, see https://www.digitalocean.com/community/tutorials/how-to-creat
 
 
 # PostMan screen shots
-![Alt text](https://github.com/JAGATDEEPJP/Flipkart-Database/PostmanScreenshots/Screenshot from 2019-01-24 00-37-26.png?raw=true "POSTMAN Registration")
+![Alt text](https://github.com/JAGATDEEPJP/Flipkart-Database/PostmanScreenshots/Screenshot/2019-01-24 00-37-26.png?raw=true "POSTMAN Registration")
