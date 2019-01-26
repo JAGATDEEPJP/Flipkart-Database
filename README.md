@@ -15,8 +15,11 @@ so create a user in mysql and grant it all privileges.
 for reference, see https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql
 
 
-# PostMan screen shots
-![Alt text](https://github.com/JAGATDEEPJP/Flipkart-Database/PostmanScreenshots/register1.png?raw=true "POSTMAN Registration")
-# POSTMAN REGISTRATION
+# POSTMAN REGISTRATION 1
 ![alt text](https://raw.githubusercontent.com/JAGATDEEPJP/Flipkart-Database/master/PostmanScreenshots/register1.png)
-
+# POSTMAN REGISTRATION 2
+![alt text](https://raw.githubusercontent.com/JAGATDEEPJP/Flipkart-Database/master/PostmanScreenshots/register2.png)
+# POSTMAN LOGIN 1
+![alt text](https://raw.githubusercontent.com/JAGATDEEPJP/Flipkart-Database/master/PostmanScreenshots/login1.png)
+# POSTMAN LOGIN 2
+![alt text](https://raw.githubusercontent.com/JAGATDEEPJP/Flipkart-Database/master/PostmanScreenshots/login2.png)
