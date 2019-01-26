@@ -23,3 +23,7 @@ for reference, see https://www.digitalocean.com/community/tutorials/how-to-creat
 ![alt text](https://raw.githubusercontent.com/JAGATDEEPJP/Flipkart-Database/master/PostmanScreenshots/login1.png)
 # POSTMAN LOGIN 2
 ![alt text](https://raw.githubusercontent.com/JAGATDEEPJP/Flipkart-Database/master/PostmanScreenshots/login2.png)
+# POSTMAN ITEM 1
+![alt text](https://raw.githubusercontent.com/JAGATDEEPJP/Flipkart-Database/master/PostmanScreenshots/item1.png)
+# POSTMAN ITEM 2
+![alt text](https://raw.githubusercontent.com/JAGATDEEPJP/Flipkart-Database/master/PostmanScreenshots/item2.png)
