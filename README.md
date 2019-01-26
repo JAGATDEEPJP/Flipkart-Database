@@ -17,5 +17,5 @@ for reference, see https://www.digitalocean.com/community/tutorials/how-to-creat
 
 # PostMan screen shots
 ![Alt text](https://github.com/JAGATDEEPJP/Flipkart-Database/PostmanScreenshots/register1.png?raw=true "POSTMAN Registration")
-![alt text](https://raw.githubusercontent.com/JAGATDEEPJP/Flipkart-Database/master/PostmanScreenshots/register1.png)
+![alt text](https://raw.githubusercontent.com/JAGATDEEPJP/Flipkart-Database/master/PostmanScreenshots/register1.png "POSTMAN Registration")
 
